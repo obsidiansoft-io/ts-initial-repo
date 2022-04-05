@@ -2,6 +2,7 @@
 
 * Documentación
 https://github.com/getify/You-Dont-Know-JS
+https://getbootstrap.com/docs/5.1/forms/input-group/
 
 * Lo primero que debemos de hacer después de descargar el código es ejecutar el comando:
 
