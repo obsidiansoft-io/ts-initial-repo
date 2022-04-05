@@ -1,5 +1,8 @@
 # Proyecto para reforzar TypeScript - ECMAScript 20XX
 
+* Documentación
+https://github.com/getify/You-Dont-Know-JS
+
 * Lo primero que debemos de hacer después de descargar el código es ejecutar el comando:
 
 ```
